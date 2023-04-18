@@ -5,7 +5,92 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>657467C3-A536-45EF-ACCD-4E6EC2DE0757</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>657467C3-A536-45EF-ACCD-4E6EC2DE0757.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Yummie-aroozpyvplayuzczmzctyylxsyvd</string>
+			<key>timeStartedRecording</key>
+			<real>703536215.38770795</real>
+			<key>timeStoppedRecording</key>
+			<real>703536216.54152799</real>
+			<key>title</key>
+			<string>Build target Yummie</string>
+			<key>uniqueIdentifier</key>
+			<string>657467C3-A536-45EF-ACCD-4E6EC2DE0757</string>
+		</dict>
+		<key>D5E0A232-6C30-4CEA-BDB6-589AE02413FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>D5E0A232-6C30-4CEA-BDB6-589AE02413FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Kingfisher-chmfsyyzlwrjsiftpgiifrxfyabq</string>
+			<key>timeStartedRecording</key>
+			<real>703536072.50062895</real>
+			<key>timeStoppedRecording</key>
+			<real>703536084.73377204</real>
+			<key>title</key>
+			<string>Build target Kingfisher</string>
+			<key>uniqueIdentifier</key>
+			<string>D5E0A232-6C30-4CEA-BDB6-589AE02413FA</string>
+		</dict>
+		<key>FA7C5435-26EC-4A7C-8A16-5F6E23AD185D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>FA7C5435-26EC-4A7C-8A16-5F6E23AD185D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-Yummie-chmfsyyzlwrjsiftpgiifrxfyabq</string>
+			<key>timeStartedRecording</key>
+			<real>703536072.49946797</real>
+			<key>timeStoppedRecording</key>
+			<real>703536084.80628896</real>
+			<key>title</key>
+			<string>Build target Pods-Yummie</string>
+			<key>uniqueIdentifier</key>
+			<string>FA7C5435-26EC-4A7C-8A16-5F6E23AD185D</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

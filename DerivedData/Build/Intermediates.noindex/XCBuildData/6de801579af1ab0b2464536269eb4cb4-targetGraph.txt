@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Kingfisher in Pods, no dependencies
+Pods-Yummie in Pods, depends on:
+Kingfisher in Pods (explicit)
+Yummie in Yummie, depends on:
+Pods-Yummie in Pods (implicit dependency via file 'Pods_Yummie.framework' in build phase 'Link Binary')
+Kingfisher in Pods (implicit dependency via options '-framework Kingfisher' in build setting 'OTHER_LDFLAGS')

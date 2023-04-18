@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "6d11179f7b8e51688fd91ec8ab814de3009aa23d4bc86b42d53b91463c81d494"
+build_start_time: [1681843415, 469784975]
+build_end_time: [1681843415, 968139171]
+inputs:
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/AppDelegate.swift": [1681323210, 984326839]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/CustomViews/CardView/CardView.swift": [1681402777, 557611703]
+  ? "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/CustomViews/CollectionViewCell/CategoryCollectoinViewCell/CategoryCollectionViewCell.swift"
+  : [1681362204, 311841964]
+  ? "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/CustomViews/CollectionViewCell/DishLandscapeCollectionViewCell/DishLandscapeCollectionViewCell.swift"
+  : [1681401948, 771511316]
+  ? "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/CustomViews/CollectionViewCell/DishPortraitCollectionViewCell/DishPortraitCollectionViewCell.swift"
+  : [1681399009, 568374156]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/CustomViews/TableViewCells/DishListTableViewCell/DishListTableViewCell.swift": [1681843272, 183805465]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Extensions/String+Extension.swift": [1681333959, 375943660]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Extensions/UIView+Extension.swift": [1681340372, 44891357]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Extensions/UIViewController+Extension.swift": [1681601840, 486367464]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Models/Dish.swift": [1681399077, 693287134]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Models/DishCategory.swift": [1681362204, 367331504]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Models/OnboardingSlide.swift": [1681278430, 769392490]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Models/Order.swift": [1681843272, 133690118]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/SceneDelegate.swift": [1681269529, 615668773]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Views/DishDetail/DishDetailViewController.swift": [1681416547, 46796798]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Views/Home/HomeViewController.swift": [1681422218, 719143867]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Views/ListDishes/ListDishesViewController.swift": [1681671556, 874107360]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Views/ListOrders/ListOrdersViewController.swift": [1681843415, 263603925]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Views/Onboarding/OnboardingCollectionViewCell.swift": [1681278430, 755884408]
+  "/Users/dajunxian/Developer/Emmanuel/Yummie/Yummie/Views/Onboarding/OnboardingViewController.swift": [1681323211, 9695053]
